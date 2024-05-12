@@ -20,4 +20,4 @@ ARGV.each do |arg|
     result << i_arg unless is_inserted
 end
 
-puts resul
+puts result
